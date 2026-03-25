@@ -10,3 +10,7 @@ I’m **Menahal** 🌟, an aspiring cybersecurity engineering student based in t
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/msc-menahal/) or via email at **menahals01@gmail.com**.
 
 ⚡ Fun fact: I love **tracking down anomalies and uncovering hidden threats in digital environments**.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=menahals&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menahals&layout=compact&theme=radical)
