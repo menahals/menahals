@@ -7,6 +7,6 @@ I’m **Menahal Saghir** 🌟, an aspiring cybersecurity engineering student bas
 
 🤝 I enjoy collaborating on projects that **improve IT security, network monitoring, and digital forensics workflows**.
 
-📫 You can reach me on [LinkedIn]([https://www.linkedin.com/in/msc-menahal/]) or via email at **menahals01@gmail.com**.
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/msc-menahal/) or via email at **menahals01@gmail.com**.
 
 ⚡ Fun fact: I love **solving complex problems and turning raw data into actionable insights**.
