@@ -9,4 +9,4 @@ I’m **Menahal Saghir** 🌟, an aspiring cybersecurity engineering student bas
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/msc-menahal/) or via email at **menahals01@gmail.com**.
 
-⚡ Fun fact: I love **solving complex problems and turning raw data into actionable insights**.
+⚡ Fun fact: I love **tracking down anomalies and uncovering hidden threats in digital environments**.
