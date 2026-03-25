@@ -1,5 +1,5 @@
 ## Hi 🌸
-I’m **Menahal Saghir** 🌟, an aspiring cybersecurity engineering student based in the UAE, passionate about **SOC operations, network monitoring, and digital forensics**.
+I’m **Menahal** 🌟, an aspiring cybersecurity engineering student based in the UAE, passionate about **SOC operations, network monitoring, and digital forensics**.
 
 💻 I’m currently working on cybersecurity projects and exploring **internship opportunities in SOC and cyber operations**.
 
