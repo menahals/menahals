@@ -7,8 +7,17 @@ I’m **Menahal** 🌟, an aspiring cybersecurity engineering student based in t
 
 🤝 I enjoy collaborating on projects that **improve IT security, network monitoring, and digital forensics workflows**.
 
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/msc-menahal/) or via email at **menahals01@gmail.com**.
-
 ⚡ Fun fact: I love **tracking down anomalies and uncovering hidden threats in digital environments**.
+
+### 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/msc-menahal/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:menahals01@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+</p>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menahals&layout=compact&theme=radical)
