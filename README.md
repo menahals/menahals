@@ -1,15 +1,18 @@
 ## Hi 🌸
-I’m **Menahal** 🌟, an aspiring cybersecurity engineering student based in the UAE, passionate about **SOC operations, network monitoring, and digital forensics**.
 
-💻 I’m currently working on cybersecurity projects and exploring **internship opportunities in SOC and cyber operations**.
+I’m **Menahal** 🌟, a cybersecurity engineering student based in the UAE with a strong interest in **SOC operations and threat detection**.
 
-📚 I’m constantly learning **advanced threat analysis, incident response techniques, and best practices in security operations**.
+💻 I build and experiment with cybersecurity projects focused on **network monitoring, alert analysis, and system security**.
 
-🤝 I enjoy collaborating on projects that **improve IT security, network monitoring, and digital forensics workflows**.
+📚 Currently developing skills in **incident response, log analysis, and threat investigation**.
 
-⚡ Fun fact: I love **tracking down anomalies and uncovering hidden threats in digital environments**.
+🤝 Open to **SOC and cybersecurity internships**, and interested in contributing to real-world security operations.
 
-### 🌐 Let's Connect
+⚡ Fun fact: I enjoy investigating alerts and uncovering the story behind suspicious activity.
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menahals&layout=compact&theme=radical)
+
+## Connect with me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/msc-menahal/" target="_blank">
@@ -19,5 +22,3 @@ I’m **Menahal** 🌟, an aspiring cybersecurity engineering student based in t
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menahals&layout=compact&theme=radical)
