@@ -10,7 +10,7 @@ I’m **Menahal** 🌟, a cybersecurity engineering student based in the UAE wit
 
 ⚡ Fun fact: I enjoy investigating alerts and uncovering the story behind suspicious activity.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=menahals&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=menahals&layout=compact&theme=radical&cache_seconds=1800)
 
 ## Connect with me
 
