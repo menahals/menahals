@@ -1,4 +1,4 @@
-# Hi, I'm Menahal 🌸
+# Hi, I'm Menahal 👾
 
 I’m a cybersecurity student with hands-on experience in digital forensics, network traffic analysis, and system-level fundamentals, focusing on defensive security, SOC analysis and incident investigation.
 
