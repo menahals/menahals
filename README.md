@@ -2,6 +2,8 @@
 
 I’m a cybersecurity student with hands-on experience in digital forensics, network traffic analysis, and system-level fundamentals, focusing on defensive security, SOC analysis and incident investigation.
 
+🎯 Seeking **internship opportunities** to apply and grow my skills in real-world environments.
+
 ---
 
 ## 🚀 Current Focus
