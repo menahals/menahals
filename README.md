@@ -34,17 +34,6 @@ I’m a cybersecurity student with hands-on experience in digital forensics, net
 </details>
 
 <details>
-<summary>📁 File System Simulation</summary>
-
-🔗 [GitHub Repo](https://github.com/menahals/FileSystemApp)  
-
-- Simulated file system behavior including directory and file operations  
-- Implemented recursive search and directory tree traversal  
-- Strengthened understanding of system-level data organization  
-
-</details>
-
-<details>
 <summary>🤖 Arduino Sumo Robot Car</summary>
 
 🔗 [GitHub Repo](https://github.com/menahals/ArduinoSumoRobotCar)  
@@ -52,6 +41,17 @@ I’m a cybersecurity student with hands-on experience in digital forensics, net
 - Built and programmed an Arduino-based robot with motor control  
 - Achieved 3rd place in competition  
 - Applied embedded systems and real-time control fundamentals  
+
+</details>
+
+<details>
+<summary>⛓️ Deadlock Simulator</summary>
+
+🔗 [GitHub Repo](https://github.com/menahals/DeadlockSimulator)  
+
+- JavaFX desktop app for visualizing Operating System deadlock scenarios  
+- Implements Wait-Die prevention, priority allocation, and RAG simulation
+- Built with Java, Maven, and OOP design
 
 </details>
 
