@@ -58,7 +58,9 @@ I’m a cybersecurity student with hands-on experience in digital forensics, net
 ---
 
 ## 🏅 Certifications & Awards
-- Cisco: Introduction to Cybersecurity  
+- Cisco: Introduction to Cybersecurity
+- Cisco: Networking Basics
+- IBM: AI Fundamentals
 - 🏆 Dean’s Honour Roll 
 
 ---
