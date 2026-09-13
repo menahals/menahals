@@ -57,7 +57,7 @@ I’m a cybersecurity student with hands-on experience in digital forensics, net
 
 ---
 
-## 🏅 Certifications & Awards
+## 🏅 Certifications 
 - Cisco: Introduction to Cybersecurity
 - Cisco: Networking Basics
 - Cisco: Endpoint Security
